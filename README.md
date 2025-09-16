@@ -1,2 +1,3 @@
-﻿# Estação Meteorológica - RS485
+﻿# Meteorological Station  - RS485
+
 
