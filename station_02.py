@@ -35,7 +35,7 @@ class SensorReading:
 class SerialCommunicator:
     """Classe responsável pela comunicação serial com os sensores"""
 
-    def __init__(self, port: str = 'COM15', baudrate: int = 4800, timeout: int = 1):
+    def __init__(self, port: str = 'COM19', baudrate: int = 4800, timeout: int = 1):
         self.port = port
         self.baudrate = baudrate
         self.timeout = timeout
