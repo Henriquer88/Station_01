@@ -73,7 +73,7 @@ if not df.empty:
     col1.metric("🌡️ Temperatura Média", f"{df['Temperatura (°C)'].mean():.1f} °C")
     col2.metric("💧 Umidade Média", f"{df['Umidade (%)'].mean():.1f} %")
     col3.metric("🌪️ Pressão Média", f"{df['Pressão (hPa)'].mean():.1f} hPa")
-    col4.metric("🌧️ Chuva Total", f"{df['Chuva (mm)'].sum():.1f} mm")
+    col4.metric("🌧️ Chuva Média", f"{df['Chuva (mm)'].mean():.1f} mm")
     col5.metric("🔊 Ruído Médio", f"{df['Ruído (dB)'].mean():.1f} dB")
 
     st.divider()
