@@ -103,7 +103,7 @@ if not df.empty:
         hide_index=True,
     )
 
-    # ===========================================
+# ===========================================
 # GRÁFICOS INTERATIVOS COMPLETOS (PLOTLY)
 # ===========================================
 import plotly.graph_objects as go
