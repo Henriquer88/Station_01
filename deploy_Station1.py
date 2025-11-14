@@ -17,7 +17,17 @@ urls = [
     "https://iothub.eletromidia.com.br/api/v1/estacoes_mets/2",
     "https://iothub.eletromidia.com.br/api/v1/estacoes_mets/3",
     "https://iothub.eletromidia.com.br/api/v1/estacoes_mets/4",
-    "https://iothub.eletromidia.com.br/api/v1/estacoes_mets/5"
+    "https://iothub.eletromidia.com.br/api/v1/estacoes_mets/5",
+    "https://iothub.eletromidia.com.br/api/v1/estacoes_mets/6",
+    "https://iothub.eletromidia.com.br/api/v1/estacoes_mets/7",
+    "https://iothub.eletromidia.com.br/api/v1/estacoes_mets/8",
+    "https://iothub.eletromidia.com.br/api/v1/estacoes_mets/9",
+    "https://iothub.eletromidia.com.br/api/v1/estacoes_mets/10",
+    "https://iothub.eletromidia.com.br/api/v1/estacoes_mets/11",
+    "https://iothub.eletromidia.com.br/api/v1/estacoes_mets/12"
+
+
+
 ]
 
 REFRESH_INTERVAL = 60  # segundos
